@@ -8,4 +8,4 @@ Hola, soy Cristian, un diseñador algo... aburrido, generalmente no suelo hacer 
 Actualmente estoy algo... ocupado en diversas cosas, realmente no quiero comentarlo.
 
 
-![Corazón](https://es.vecteezy.com/png/1187434-corazon)
+![Corazón]([https://es.vecteezy.com/png/1187434-corazon](https://www.flaticon.es/icono-gratis/corazon_3077000))
