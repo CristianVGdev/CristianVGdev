@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>¡Hola! Soy CristianVGdev 👋</h1><br><br>
+    <h1>¡Hola! Soy CristianVGdev 👋</h1>
     <h3>Lenguajes de programación</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
