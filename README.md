@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CristianVGdev&show_icons=true&count_private=true&hide=stars&theme=radical" alt="Estadísticas de GitHub">
+    <img src="https://github-readme-stats.vercel.app/api?username=CristianVGdev&show_icons=true&count_private=true&hide=stars&theme=dracula" alt="Estadísticas de GitHub">
 </div>
 
 ## ¡Bienvenido a mi perfil de GitHub! 👨‍💻
@@ -31,7 +31,7 @@ Aquí encontrarás una variedad de proyectos en los que he trabajado.
 ### Lenguajes más usados
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianVGdev&layout=compact&theme=radical" alt="Lenguajes más usados">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianVGdev&layout=compact&theme=dracula" alt="Lenguajes más usados">
 </div>
 
 Si estás interesado en colaborar en alguno de mis proyectos o simplemente quieres saber más sobre mí, no dudes en contactarme. ¡Gracias por visitar mi perfil! 🙌
