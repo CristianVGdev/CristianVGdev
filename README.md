@@ -52,7 +52,7 @@ Si te aventuras por mis repositorios, encontrarás comentarios con rastros de sa
 
 ## ✉️ ¿Cómo me encuentras?
 
-Si me escribes aquí, probablemente nunca te responda porque, bueno, las notificaciones son overrated. Mejor contáctame por mi [https://cristianvg.com](#) y tal vez tengas suerte. O no. 
+Si me escribes aquí, probablemente nunca te responda porque, bueno, las notificaciones son overrated. Mejor contáctame por mi [CristianVG.com](https://cristianvg.com) y tal vez tengas suerte. O no. 
 
 
 Si estás interesado en colaborar en alguno de mis proyectos o simplemente quieres saber más sobre mí, no dudes en contactarme. ¡Gracias por visitar mi perfil! 🙌
