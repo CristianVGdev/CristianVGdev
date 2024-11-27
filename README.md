@@ -46,6 +46,14 @@ Aquí encontrarás una variedad de proyectos en los que he trabajado.
 - **MySQL**: Porque no siempre necesitas algo tan fancy como PostgreSQL.
 - **JavaScript**: El mal necesario, pero ahí estamos.
 
+## ☕ Advertencia
+
+Si te aventuras por mis repositorios, encontrarás comentarios con rastros de sarcasmo y ligeras manchas de café (metafóricamente, claro... o tal vez no). Eso sí, todo está documentado, porque hasta mi sarcasmo tiene estándares.
+
+## ✉️ ¿Cómo me encuentras?
+
+Si me escribes aquí, probablemente nunca te responda porque, bueno, las notificaciones son overrated. Mejor contáctame por mi [https://cristianvg.com](#) y tal vez tengas suerte. O no. 
+
 
 Si estás interesado en colaborar en alguno de mis proyectos o simplemente quieres saber más sobre mí, no dudes en contactarme. ¡Gracias por visitar mi perfil! 🙌
 
