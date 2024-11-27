@@ -34,6 +34,19 @@ Aquí encontrarás una variedad de proyectos en los que he trabajado.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianVGdev&layout=compact&theme=dracula" alt="Lenguajes más usados">
 </div>
 
+## 👨‍💻 Filosofía de código
+
+- **Keep it simple**: Más funciones no siempre significa mejor código. A veces, significa más café y más problemas.
+- **Documentar sin llorar**: Si escribo algo, lo dejo claro. Nadie quiere un código que necesite un arqueólogo para entenderlo.
+- **Si funciona, no lo toques**: Y si no funciona, revisa los permisos. Siempre son los permisos.
+
+## 🧰 Herramientas favoritas
+
+- **PHP**: Porque sí, me gusta sufrir un poco. 
+- **MySQL**: Porque no siempre necesitas algo tan fancy como PostgreSQL.
+- **JavaScript**: El mal necesario, pero ahí estamos.
+
+
 Si estás interesado en colaborar en alguno de mis proyectos o simplemente quieres saber más sobre mí, no dudes en contactarme. ¡Gracias por visitar mi perfil! 🙌
 
 
