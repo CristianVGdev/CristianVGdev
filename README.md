@@ -39,6 +39,7 @@ Aquí encontrarás una variedad de proyectos en los que he trabajado.
 - **Keep it simple**: Más funciones no siempre significa mejor código. A veces, significa más café y más problemas.
 - **Documentar sin llorar**: Si escribo algo, lo dejo claro. Nadie quiere un código que necesite un arqueólogo para entenderlo.
 - **Si funciona, no lo toques**: Y si no funciona, revisa los permisos. Siempre son los permisos.
+- **Modular**: Si puedes hacer que cada módulo sea independiente es más facil encontrar errores.
 
 ## 🧰 Herramientas favoritas
 
