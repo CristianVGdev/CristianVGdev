@@ -47,7 +47,7 @@
 ## ¡Bienvenido a mi perfil de GitHub! 👨‍💻
 
 Soy un apasionado desarrollador de software con experiencia en diferentes lenguajes de programación, bases de datos y procesadores de pago. 
-Aquí encontrarás una variedad de proyectos en los que he trabajado.
+Aquí encontrarás una variedad de proyectos en los que he trabajado. O si me buscaste porque te hice una PR, posiblemente estaba deprimido o aburrido.
 
 ### Lenguajes más usados
 
