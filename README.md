@@ -39,7 +39,7 @@
 
 
 <div align="center">
-    <img src="https://cristianvg.com/api/stats/stats/img" alt="Estadísticas de GitHub">
+    <img src="https://cristianvg.com/api/s/stats/img" alt="Estadísticas de GitHub">
 </div>
 
 ---
@@ -52,7 +52,7 @@ Aquí encontrarás una variedad de proyectos en los que he trabajado. O si me bu
 ### Lenguajes más usados
 
 <div align="center">
-    <img src="https://cristianvg.com/api/stats/porcent/img" alt="Estadísticas de GitHub">
+    <img src="https://cristianvg.com/api/s/porcent/img" alt="Estadísticas de GitHub">
 </div>
 
 ## 👨‍💻 Filosofía de código
