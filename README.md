@@ -39,7 +39,7 @@
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CristianVGdev&show_icons=true&count_private=true&hide=stars&theme=dracula" alt="Estadísticas de GitHub">
+    <img src="https://cristianvg.com/api/stats/stats/img" alt="Estadísticas de GitHub">
 </div>
 
 ---
@@ -52,7 +52,7 @@ Aquí encontrarás una variedad de proyectos en los que he trabajado. O si me bu
 ### Lenguajes más usados
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianVGdev&layout=compact&theme=dracula" alt="Lenguajes más usados">
+    <img src="https://cristianvg.com/api/stats/porcent/img" alt="Estadísticas de GitHub">
 </div>
 
 ## 👨‍💻 Filosofía de código
