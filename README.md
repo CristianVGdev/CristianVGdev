@@ -26,6 +26,7 @@
 |:-----------:|:------:|:------:|
 | <img src="https://cdn.simpleicons.org/mercadopago/0070d2" alt="MercadoPago" width="40" height="40"/> | <img src="https://cdn.simpleicons.org/paypal/003087" alt="PayPal" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/stripe.svg" alt="Stripe" width="40" height="40"/> |
 
+</div>
 
 <div align="center">
     <img src="https://cristianvg.com/api/s/stats/img" alt="Estadísticas de GitHub">
