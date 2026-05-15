@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy CristianVGdev 👋
+# ¡Hola! Soy CristianVG 👋
 
 <h3>Lenguajes de programación</h3>
 
